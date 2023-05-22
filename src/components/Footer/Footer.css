@@ -1,0 +1,11 @@
+.Footer {
+  position: fixed;
+  left: 16px;
+  bottom: 16px;
+  text-align: left;
+  background: rgba(214, 201, 201, 0.7);
+  padding: 8px 24px;
+  border-radius: 32px;
+  opacity: 0.95;
+  backdrop-filter: blur(8px);
+}
